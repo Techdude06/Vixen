@@ -63,7 +63,7 @@ effect_nodes_end = tim_content.find('</_effectNodeSurrogates>')
 
 if data_models_end == -1 or effect_nodes_end == -1:
     print("ERROR: Could not find insertion points")
-    exit(1)
+    raise SystemExit(1)
 
 # Effect templates
 def make_pulse(effect_id, color):
@@ -157,8 +157,12 @@ def make_butterfly(effect_id, color1, color2):
 new_effect_data = []
 new_effect_nodes = []
 
-effect_types = ['Pulse', 'Wipe', 'Twinkle', 'Spiral', 'Butterfly', 'Pulse', 'Wipe', 'Pulse']
-wipe_directions = ['Right', 'Left', 'Up', 'Down']
+# Define effect distribution pattern
+# Weight: Pulse (common), Wipe (emphasis), Twinkle/Spiral/Butterfly (special)
+EFFECT_DISTRIBUTION = {
+    'pattern': ['Pulse', 'Wipe', 'Twinkle', 'Spiral', 'Butterfly', 'Pulse', 'Wipe', 'Pulse'],
+    'wipe_directions': ['Right', 'Left', 'Up', 'Down']
+}
 effect_counts = {'Pulse': 0, 'Wipe': 0, 'Twinkle': 0, 'Spiral': 0, 'Butterfly': 0}
 
 for i, beat_time in enumerate(stomps):
@@ -178,13 +182,13 @@ for i, beat_time in enumerate(stomps):
     else:
         effect_duration = beat_interval * 1.5
     
-    effect_type = effect_types[i % len(effect_types)]
+    effect_type = EFFECT_DISTRIBUTION['pattern'][i % len(EFFECT_DISTRIBUTION['pattern'])]
     
     if effect_type == 'Pulse':
         effect_data = make_pulse(effect_id, color)
         type_id = EFFECT_TYPES['Pulse']
     elif effect_type == 'Wipe':
-        direction = wipe_directions[i % len(wipe_directions)]
+        direction = EFFECT_DISTRIBUTION['wipe_directions'][i % len(EFFECT_DISTRIBUTION['wipe_directions'])]
         effect_data = make_wipe(effect_id, color, direction)
         type_id = EFFECT_TYPES['Wipe']
     elif effect_type == 'Twinkle':
@@ -227,10 +231,13 @@ for etype, count in effect_counts.items():
     print(f"  {etype}: {count}")
 print(f"  Total: {sum(effect_counts.values())}")
 
-# Insert effects
+# Insert effects into the TIM content
+# Note: We recalculate effect_nodes_end after modifying tim_content
+# because the string positions shift after the first insertion
 insert_data = '\n'.join(new_effect_data)
 tim_content = tim_content[:data_models_end] + insert_data + '\n  ' + tim_content[data_models_end:]
 
+# Recalculate position after content modification
 effect_nodes_end = tim_content.find('</_effectNodeSurrogates>')
 insert_nodes = '\n'.join(new_effect_nodes)
 tim_content = tim_content[:effect_nodes_end] + insert_nodes + '\n  ' + tim_content[effect_nodes_end:]

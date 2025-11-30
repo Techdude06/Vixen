@@ -15,8 +15,7 @@ The script will:
 4. Add varied effects (Pulse, Wipe, Twinkle, Spiral, Butterfly) at beat times
 """
 
-import uuid
-import re
+
 
 def analyze_tempo():
     """Analyze the song and return tempo information."""
@@ -24,7 +23,13 @@ def analyze_tempo():
         import librosa
         import numpy as np
         
-        mp3_file = 'The Greatest Showman Cast - The Greatest Show (Official Audio) [ ezmp3.cc ].mp3'
+        # Look for The Greatest Show MP3 file (various naming formats)
+        import os
+        mp3_files = [f for f in os.listdir('.') if 'Greatest Show' in f and f.endswith('.mp3')]
+        if mp3_files:
+            mp3_file = mp3_files[0]
+        else:
+            mp3_file = 'The Greatest Showman Cast - The Greatest Show (Official Audio) [ ezmp3.cc ].mp3'
         print(f"Analyzing: {mp3_file}")
         
         y, sr = librosa.load(mp3_file, sr=None)
