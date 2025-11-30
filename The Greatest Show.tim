@@ -10627,7 +10627,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -10704,7 +10704,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -10747,7 +10747,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -10824,7 +10824,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -10867,7 +10867,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -10944,7 +10944,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -10987,7 +10987,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11064,7 +11064,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11107,7 +11107,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11184,7 +11184,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11227,7 +11227,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11304,7 +11304,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11347,7 +11347,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11424,7 +11424,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11467,7 +11467,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11544,7 +11544,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11587,7 +11587,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11664,7 +11664,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11707,7 +11707,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11784,7 +11784,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11827,7 +11827,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11904,7 +11904,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -11947,7 +11947,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12024,7 +12024,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12067,7 +12067,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12144,7 +12144,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12187,7 +12187,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12264,7 +12264,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12307,7 +12307,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12384,7 +12384,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12427,7 +12427,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12504,7 +12504,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12547,7 +12547,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12624,7 +12624,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12667,7 +12667,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12744,7 +12744,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12787,7 +12787,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12864,7 +12864,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12907,7 +12907,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -12984,7 +12984,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -13027,7 +13027,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -13104,7 +13104,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
+      <d2p1:Direction>Vertical</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 
@@ -13147,7 +13147,7 @@
       </d2p1:ColorGradient>
       <d2p1:ColorHandling>GradientThroughWholeEffect</d2p1:ColorHandling>
       <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves"><d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve><d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph"><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">0</X><Y i:type="a:double">0</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair><d4p1:PointPair><schema i:type="a:int">11</schema><X i:type="a:double">100</X><Y i:type="a:double">100</Y><schema2 i:type="a:int">11</schema2><Z i:type="a:double">0</Z><Tag i:nil="true" /></d4p1:PointPair></d3p1:Points><d3p1:_libraryReferenceName i:nil="true" /></d2p1:Curve>
-      <d2p1:Direction>Left</d2p1:Direction>
+      <d2p1:Direction>Horizontal</d2p1:Direction>
       <d2p1:MovementType>Position</d2p1:MovementType><d2p1:PassCount>1</d2p1:PassCount><d2p1:Pulses>1</d2p1:Pulses><d2p1:ReverseDirection>false</d2p1:ReverseDirection><d2p1:WipeByCount>false</d2p1:WipeByCount><d2p1:WipeMovement>Count</d2p1:WipeMovement><d2p1:WipeOn>true</d2p1:WipeOn><d2p1:WipeOff>false</d2p1:WipeOff>
     </d1p1:anyType>
 

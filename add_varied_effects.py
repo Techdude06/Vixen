@@ -159,9 +159,10 @@ new_effect_nodes = []
 
 # Define effect distribution pattern
 # Weight: Pulse (common), Wipe (emphasis), Twinkle/Spiral/Butterfly (special)
+# Valid WipeDirection values: Horizontal, Vertical, Burst, Circle, CurtainOpen, DiagonalUp, Dimaond
 EFFECT_DISTRIBUTION = {
     'pattern': ['Pulse', 'Wipe', 'Twinkle', 'Spiral', 'Butterfly', 'Pulse', 'Wipe', 'Pulse'],
-    'wipe_directions': ['Right', 'Left', 'Up', 'Down']
+    'wipe_directions': ['Horizontal', 'Vertical', 'DiagonalUp', 'Burst']
 }
 effect_counts = {'Pulse': 0, 'Wipe': 0, 'Twinkle': 0, 'Spiral': 0, 'Butterfly': 0}
 
